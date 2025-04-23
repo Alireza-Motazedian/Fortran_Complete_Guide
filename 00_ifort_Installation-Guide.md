@@ -54,7 +54,7 @@ Add the bellow path to .zshrc
 Like below:
 
 
-![Image 14](../Archive/images/1.%20ifort_installation%20images/image14.png)<p>&nbsp;</p>
+![Image 14](Archive/images/1.%20ifort_installation%20images/image14.png)<p>&nbsp;</p>
 
 Close and reopen the terminal and make sure that ifort is installed by this command:
 
