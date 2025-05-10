@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="figures/Banner_Fortran.png" alt="Banner_Fortran" width="80%">
+</div>
+
 # FORTRAN Tutorial
 
 ## The codes are set to introduce various applications of these commands.    
